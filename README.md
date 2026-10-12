@@ -1,1 +1,1 @@
-# globiz-portfolio
+GloBiz by Bilal is a professional portfolio and international business consultancy website focused on global business development, cross-border mobility, international trade fair representation, European market entry, and AI-powered market intelligence. Built with HTML, Tailwind CSS, and JavaScript, the website showcases consulting services, global projects, and an interactive Google Gemini-powered tool that generates market insights for selected regions and industries.
